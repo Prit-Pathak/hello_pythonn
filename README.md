@@ -1,2 +1,2 @@
-# hello_pythonn
+# hello_python
 simple python program
